@@ -367,21 +367,8 @@ img {
 }
 
 /* --- Footer --- */
-.page{
-    display: flex;
-    flex-direction: column;
-}
-
-header{
-    height: 100px;
-}
-
-.content{
-    height: 100%;
-}
 
 footer {
-  height: 100px;
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;

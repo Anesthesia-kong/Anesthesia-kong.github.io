@@ -372,6 +372,10 @@ img {
     flex-direction: column;
 }
 
+header{
+    height: 100px;
+}
+
 .content{
     height: 100%;
 }
